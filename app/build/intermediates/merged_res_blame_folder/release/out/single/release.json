@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_donut_large.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_donut_large.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_background.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_background.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_security.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_security.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_nexticon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_nexticon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_dashboard.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_security_colored.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_security_colored.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_yesemoji.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_yesemoji.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_dollar.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_donut_large_colored.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_donut_large_colored.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_addicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_addicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_closeicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_closeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_noemoji.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_noemoji.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_dashboard_colored.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_dashboard_colored.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\samson.osiomwan\\Documents\\glover\\GloverTest\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    }
+]
